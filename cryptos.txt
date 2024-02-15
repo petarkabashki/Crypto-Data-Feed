@@ -1,0 +1,1830 @@
+#
+
+Name
+
+Price
+
+1h %
+
+24h %
+
+7d %
+
+Market Cap
+
+Volume(24h)
+
+Circulating Supply
+
+Last 7 Days
+
+
+
+
+
+
+
+
+
+
+
+1
+
+BTC logo
+Bitcoin
+
+BTC
+
+$52,311.59
+0.79%	1.12%	15.96%	
+$1,026,878,609,067
+
+$37,018,690,266
+
+707,539 BTC
+
+19,628,737 BTC
+
+bitcoin-7d-price-graph
+2
+
+ETH logo
+Ethereum
+
+ETH
+
+$2,835.54
+0.50%	3.17%	16.99%	
+$340,723,162,670
+
+$23,464,241,699
+
+8,276,270 ETH
+
+120,166,914 ETH
+
+ethereum-7d-price-graph
+3
+
+USDT logo
+Tether USDt
+
+USDT
+
+$1.00
+0.04%	0.01%	0.04%	
+$97,132,591,279
+
+$67,729,425,464
+
+67,714,073,308 USDT
+
+97,116,788,126 USDT
+
+tether-7d-price-graph
+4
+
+BNB logo
+BNB
+
+BNB
+
+$357.69
+0.61%	7.47%	12.79%	
+$53,489,737,695
+
+$1,619,135,081
+
+4,531,232 BNB
+
+149,544,775 BNB
+
+bnb-7d-price-graph
+5
+
+SOL logo
+Solana
+
+SOL
+
+$114.70
+0.83%	1.68%	11.13%	
+$50,519,784,869
+
+$2,340,005,713
+
+20,407,506 SOL
+
+440,381,284 SOL
+
+solana-7d-price-graph
+6
+
+XRP logo
+XRP
+
+XRP
+
+$0.5478
+0.19%	2.73%	6.50%	
+$29,879,951,811
+
+$1,538,291,346
+
+2,806,619,153 XRP
+
+54,506,969,135 XRP
+
+xrp-7d-price-graph
+7
+
+USDC logo
+USDC
+
+USDC
+
+$1.00
+0.03%	0.02%	0.00%	
+$28,019,764,124
+
+$7,121,041,887
+
+7,121,165,407 USDC
+
+28,024,390,875 USDC
+
+usd-coin-7d-price-graph
+8
+
+ADA logo
+Cardano
+
+ADA
+
+$0.6067
+0.51%	5.85%	15.11%	
+$21,462,397,376
+
+$688,666,903
+
+1,138,742,164 ADA
+
+35,451,346,530 ADA
+
+cardano-7d-price-graph
+9
+
+AVAX logo
+Avalanche
+
+AVAX
+
+$42.13
+0.59%	1.32%	18.10%	
+$15,482,692,212
+
+$833,347,079
+
+19,825,987 AVAX
+
+367,498,491 AVAX
+
+avalanche-7d-price-graph
+10
+
+DOGE logo
+Dogecoin
+
+DOGE
+
+$0.08507
+1.25%	1.87%	6.03%	
+$12,183,569,700
+
+$827,354,294
+
+9,735,246,826 DOGE
+
+143,084,766,384 DOGE
+
+dogecoin-7d-price-graph
+11
+
+LINK logo
+Chainlink
+
+LINK
+
+$20.04
+0.18%	0.29%	9.04%	
+$11,763,000,822
+
+$530,671,146
+
+26,613,915 LINK
+
+587,099,970 LINK
+
+chainlink-7d-price-graph
+12
+
+TRX logo
+TRON
+
+TRX
+
+$0.1307
+0.19%	1.33%	6.55%	
+$11,502,169,804
+
+$386,534,207
+
+2,954,602,111 TRX
+
+88,063,931,714 TRX
+
+tron-7d-price-graph
+13
+
+DOT logo
+Polkadot
+
+DOT
+
+$7.82
+0.21%	3.37%	12.02%	
+$9,988,526,716
+
+$315,040,846
+
+40,269,804 DOT
+
+1,279,289,728 DOT
+
+polkadot-new-7d-price-graph
+14
+
+MATIC logo
+Polygon
+
+MATIC
+
+$0.8966
+0.19%	1.80%	7.92%	
+$8,599,825,739
+
+$403,467,095
+
+449,021,401 MATIC
+
+9,618,353,734 MATIC
+
+polygon-7d-price-graph
+15
+
+TON logo
+Toncoin
+
+TON
+
+$2.22
+0.48%	0.83%	7.39%	
+$7,701,139,392
+
+$40,902,624
+
+18,425,524 TON
+
+3,466,765,743 TON
+
+toncoin-7d-price-graph
+16
+
+ICP logo
+Internet Computer
+
+ICP
+
+$13.78
+1.12%	2.23%	12.51%	
+$6,302,311,864
+
+$175,002,136
+
+12,751,496 ICP
+
+458,504,883 ICP
+
+internet-computer-7d-price-graph
+17
+
+SHIB logo
+Shiba Inu
+
+SHIB
+
+$0.000009912
+0.26%	3.00%	7.42%	
+$5,840,784,755
+
+$225,892,612
+
+22,812,315,548,911 SHIB
+
+589,289,911,324,054 SHIB
+
+shiba-inu-7d-price-graph
+18
+
+DAI logo
+Dai
+
+DAI
+
+$0.9997
+0.01%	0.04%	0.02%	
+$5,345,681,734
+
+$129,621,847
+
+129,651,331 DAI
+
+5,347,888,596 DAI
+
+multi-collateral-dai-7d-price-graph
+19
+
+BCH logo
+Bitcoin Cash
+
+BCH
+
+$270.90
+0.37%	2.59%	11.38%	
+$5,320,668,257
+
+$410,263,148
+
+1,518,982 BCH
+
+19,642,656 BCH
+
+bitcoin-cash-7d-price-graph
+20
+
+LTC logo
+Litecoin
+
+LTC
+
+$69.84
+0.21%	0.35%	1.32%	
+$5,182,589,237
+
+$405,590,240
+
+5,819,096 LTC
+
+74,209,075 LTC
+
+litecoin-7d-price-graph
+21
+
+UNI logo
+Uniswap
+
+UNI
+
+$7.31
+0.45%	7.31%	14.82%	
+$4,362,873,580
+
+$136,882,346
+
+18,759,200 UNI
+
+598,187,016 UNI
+
+uniswap-7d-price-graph
+22
+
+IMX logo
+Immutable
+
+IMX
+
+$3.18
+0.41%	2.19%	40.42%	
+$4,316,179,375
+
+$199,042,574
+
+62,528,906 IMX
+
+1,355,429,364 IMX
+
+immutable-x-7d-price-graph
+23
+
+ATOM logo
+Cosmos
+
+ATOM
+
+$10.25
+0.12%	0.76%	7.47%	
+$3,965,832,453
+
+$196,589,307
+
+19,178,633 ATOM
+
+386,733,646 ATOM
+
+cosmos-7d-price-graph
+24
+
+ETC logo
+Ethereum Classic
+
+ETC
+
+$26.90
+0.63%	0.67%	6.19%	
+$3,908,929,902
+
+$340,491,750
+
+12,659,695 ETC
+
+145,567,320 ETC
+
+ethereum-classic-7d-price-graph
+25
+
+APT logo
+Aptos
+
+APT
+
+$10.57
+0.13%	11.94%	20.00%	
+$3,860,466,501
+
+$390,495,151
+
+36,797,041 APT
+
+365,087,824 APT
+
+aptos-7d-price-graph
+26
+
+LEO logo
+UNUS SED LEO
+
+LEO
+
+$4.16
+0.15%	0.05%	2.11%	
+$3,857,307,231
+
+$1,367,037
+
+328,586 LEO
+
+927,506,552 LEO
+
+unus-sed-leo-7d-price-graph
+27
+
+OP logo
+Optimism
+
+OP
+
+$3.93
+1.37%	3.79%	16.89%	
+$3,747,878,707
+
+$262,798,197
+
+67,411,208 OP
+
+957,378,568 OP
+
+optimism-ethereum-7d-price-graph
+28
+
+STX logo
+Stacks
+
+STX
+
+$2.56
+0.60%	7.50%	44.59%	
+$3,689,175,309
+
+$736,931,220
+
+286,097,210 STX
+
+1,439,295,895 STX
+
+stacks-7d-price-graph
+29
+
+NEAR logo
+NEAR Protocol
+
+NEAR
+
+$3.38
+0.53%	1.76%	15.47%	
+$3,511,355,687
+
+$213,136,207
+
+63,160,172 NEAR
+
+1,039,482,853 NEAR
+
+near-protocol-7d-price-graph
+30
+
+XLM logo
+Stellar
+
+XLM
+
+$0.1154
+0.24%	2.01%	5.49%	
+$3,279,399,021
+
+$101,279,758
+
+876,386,006 XLM
+
+28,420,395,815 XLM
+
+stellar-7d-price-graph
+32
+
+VET logo
+VeChain
+
+VET
+
+$0.04409
+0.88%	27.56%	52.18%	
+$3,206,024,720
+
+$601,243,530
+
+13,689,199,906 VET
+
+72,714,516,834 VET
+
+vechain-7d-price-graph
+31
+
+KAS logo
+Kaspa
+
+KAS
+
+$0.1407
+0.04%	1.07%	10.99%	
+$3,192,070,714
+
+$41,073,646
+
+292,468,660 KAS
+
+22,694,423,723 KAS
+
+kaspa-7d-price-graph
+33
+
+INJ logo
+Injective
+
+INJ
+
+$33.85
+1.11%	3.34%	2.58%	
+$3,161,215,254
+
+$205,589,825
+
+6,050,171 INJ
+
+93,400,000 INJ
+
+injective-7d-price-graph
+34
+
+TIA logo
+Celestia
+
+TIA
+
+$18.51
+0.26%	2.82%	8.18%	
+$3,043,412,079
+
+$205,595,724
+
+11,103,796 TIA
+
+164,495,583 TIA
+
+celestia-7d-price-graph
+35
+
+OKB logo
+OKB
+
+OKB
+
+$50.93
+0.14%	1.42%	3.35%	
+$3,051,137,668
+
+$8,733,402
+
+172,431 OKB
+
+60,000,000 OKB
+
+okb-7d-price-graph
+36
+
+FIL logo
+Filecoin
+
+FIL
+
+$5.87
+1.17%	5.79%	12.40%	
+$2,998,122,762
+
+$199,942,030
+
+33,958,405 FIL
+
+510,509,472 FIL
+
+filecoin-7d-price-graph
+37
+
+LDO logo
+Lido DAO
+
+LDO
+
+$3.21
+1.20%	2.11%	12.70%	
+$2,851,865,181
+
+$103,431,192
+
+32,343,537 LDO
+
+890,922,625 LDO
+
+lido-dao-7d-price-graph
+38
+
+FDUSD logo
+First Digital USD
+
+FDUSD
+
+$1.00
+0.00%	0.12%	0.17%	
+$2,843,328,960
+
+$6,940,174,269
+
+6,937,132,210 FDUSD
+
+2,841,575,618 FDUSD
+
+first-digital-usd-7d-price-graph
+39
+
+HBAR logo
+Hedera
+
+HBAR
+
+$0.08313
+0.13%	1.36%	8.60%	
+$2,793,654,751
+
+$63,241,157
+
+761,807,383 HBAR
+
+33,667,358,353 HBAR
+
+hedera-7d-price-graph
+40
+
+ARB logo
+Arbitrum
+
+ARB
+
+$2.10
+0.36%	1.29%	11.12%	
+$2,678,196,630
+
+$486,828,301
+
+231,907,550 ARB
+
+1,275,000,000 ARB
+
+arbitrum-7d-price-graph
+41
+
+MNT logo
+Mantle
+
+MNT
+
+$0.7943
+0.46%	9.70%	29.77%	
+$2,541,901,369
+
+$202,295,633
+
+256,055,087 MNT
+
+3,226,917,893 MNT
+
+mantle-7d-price-graph
+42
+
+SEI logo
+Sei
+
+SEI
+
+$0.973
+1.34%	12.89%	51.84%	
+$2,479,554,165
+
+$884,519,415
+
+923,494,682 SEI
+
+2,550,000,000 SEI
+
+sei-7d-price-graph
+43
+
+XMR logo
+Monero
+
+XMR
+
+$126.90
+1.10%	1.67%	2.48%	
+$2,334,937,653
+
+$78,118,423
+
+615,327 XMR
+
+18,398,125 XMR
+
+monero-7d-price-graph
+44
+
+CRO logo
+Cronos
+
+CRO
+
+$0.09162
+0.20%	0.20%	8.34%	
+$2,306,032,416
+
+$13,055,364
+
+143,068,179 CRO
+
+25,263,013,692 CRO
+
+cronos-7d-price-graph
+45
+
+SUI logo
+Sui
+
+SUI
+
+$1.85
+0.64%	2.55%	21.58%	
+$2,158,291,347
+
+$414,170,141
+
+224,153,063 SUI
+
+1,165,931,966 SUI
+
+sui-7d-price-graph
+46
+
+RUNE logo
+THORChain
+
+RUNE
+
+$5.73
+2.85%	3.72%	21.56%	
+$1,949,197,615
+
+$269,406,101
+
+46,756,395 RUNE
+
+339,957,264 RUNE
+
+thorchain-7d-price-graph
+47
+
+MKR logo
+Maker
+
+MKR
+
+$2,048.86
+0.88%	2.24%	5.94%	
+$1,890,371,155
+
+$56,379,437
+
+27,544 MKR
+
+923,195 MKR
+
+maker-7d-price-graph
+48
+
+RNDR logo
+Render
+
+RNDR
+
+$4.92
+1.21%	0.05%	9.79%	
+$1,851,212,817
+
+$136,376,866
+
+27,825,315 RNDR
+
+378,146,336 RNDR
+
+render-7d-price-graph
+49
+
+GRT logo
+The Graph
+
+GRT
+
+$0.1826
+0.02%	1.86%	12.43%	
+$1,715,517,245
+
+$71,151,184
+
+390,406,969 GRT
+
+9,392,002,501 GRT
+
+the-graph-7d-price-graph
+50
+
+HNT logo
+Helium
+
+HNT
+
+$10.27
+3.54%	8.69%	43.28%	
+$1,637,885,805
+
+$50,724,128
+
+4,894,840 HNT
+
+160,875,442 HNT
+
+helium-7d-price-graph
+51
+
+EGLD logo
+MultiversX
+
+EGLD
+
+$60.36
+0.27%	0.77%	12.90%	
+$1,602,201,864
+
+$50,505,871
+
+838,328 EGLD
+
+26,576,492 EGLD
+
+multiversx-egld-7d-price-graph
+52
+
+BSV logo
+Bitcoin SV
+
+BSV
+
+$80.54
+0.40%	1.01%	5.62%	
+$1,577,154,752
+
+$103,897,680
+
+1,295,278 BSV
+
+19,635,431 BSV
+
+bitcoin-sv-7d-price-graph
+53
+
+MINA logo
+Mina
+
+MINA
+
+$1.47
+0.25%	1.95%	23.39%	
+$1,540,927,230
+
+$126,478,387
+
+86,370,845 MINA
+
+1,052,618,949 MINA
+
+mina-7d-price-graph
+54
+
+BEAM logo
+Beam
+
+BEAM
+
+$0.02844
+4.40%	1.60%	52.04%	
+$1,465,180,626
+
+$77,046,306
+
+2,606,949,639 BEAM
+
+51,654,426,367 BEAM
+
+onbeam-7d-price-graph
+55
+
+ALGO logo
+Algorand
+
+ALGO
+
+$0.1882
+0.18%	3.05%	12.05%	
+$1,513,791,986
+
+$57,141,741
+
+303,180,989 ALGO
+
+8,044,681,559 ALGO
+
+algorand-7d-price-graph
+56
+
+ORDI logo
+ORDI
+
+ORDI
+
+$69.39
+0.15%	1.23%	12.09%	
+$1,454,982,828
+
+$193,172,770
+
+2,785,380 ORDI
+
+21,000,000 ORDI
+
+ordi-7d-price-graph
+57
+
+FLOW logo
+Flow
+
+FLOW
+
+$0.9559
+0.34%	3.60%	22.75%	
+$1,422,768,235
+
+$144,871,518
+
+151,795,039 FLOW
+
+1,489,255,165 FLOW
+
+flow-7d-price-graph
+58
+
+AAVE logo
+Aave
+
+AAVE
+
+$92.48
+0.00%	1.84%	8.04%	
+$1,362,328,846
+
+$134,010,374
+
+1,449,408 AAVE
+
+14,734,225 AAVE
+
+aave-7d-price-graph
+59
+
+QNT logo
+Quant
+
+QNT
+
+$108.97
+0.61%	3.62%	5.26%	
+$1,317,758,283
+
+$26,566,982
+
+243,553 QNT
+
+12,072,738 QNT
+
+quant-7d-price-graph
+60
+
+TUSD logo
+TrueUSD
+
+TUSD
+
+$0.9826
+0.07%	0.69%	0.00%	
+$1,265,232,234
+
+$128,673,670
+
+131,058,240 TUSD
+
+1,288,356,472 TUSD
+
+trueusd-7d-price-graph
+61
+
+BLUR logo
+Blur
+
+BLUR
+
+$0.7414
+0.37%	0.42%	19.55%	
+$1,231,148,113
+
+$214,998,767
+
+290,937,616 BLUR
+
+1,661,572,845 BLUR
+
+blur-token-7d-price-graph
+62
+
+BGB logo
+Bitget Token
+
+BGB
+
+$0.8637
+0.89%	19.54%	37.31%	
+$1,207,464,431
+
+$66,675,516
+
+77,707,317 BGB
+
+1,400,000,000 BGB
+
+bitget-token-new-7d-price-graph
+63
+
+DYM logo
+Dymension
+
+DYM
+
+$8.08
+0.25%	2.81%	2.81%	
+$1,180,777,148
+
+$165,436,281
+
+20,489,479 DYM
+
+146,000,000 DYM
+
+dymension-7d-price-graph
+64
+
+FTM logo
+Fantom
+
+FTM
+
+$0.4139
+0.01%	1.20%	11.57%	
+$1,158,832,267
+
+$76,822,779
+
+185,941,372 FTM
+
+2,803,634,836 FTM
+
+fantom-7d-price-graph
+65
+
+SNX logo
+Synthetix
+
+SNX
+
+$3.74
+0.38%	1.36%	11.39%	
+$1,139,095,297
+
+$42,553,067
+
+11,391,730 SNX
+
+304,599,576 SNX
+
+synthetix-7d-price-graph
+66
+
+THETA logo
+Theta Network
+
+THETA
+
+$1.13
+0.20%	3.91%	13.57%	
+$1,128,525,075
+
+$23,243,556
+
+20,471,653 THETA
+
+1,000,000,000 THETA
+
+theta-network-7d-price-graph
+67
+
+FLR logo
+Flare
+
+FLR
+
+$0.03263
+0.60%	0.29%	8.05%	
+$1,127,406,312
+
+$13,300,719
+
+409,028,165 FLR
+
+34,451,968,401 FLR
+
+flare-7d-price-graph
+68
+
+AXS logo
+Axie Infinity
+
+AXS
+
+$8.06
+0.18%	2.87%	12.14%	
+$1,104,261,564
+
+$89,642,991
+
+11,135,160 AXS
+
+137,274,738 AXS
+
+axie-infinity-7d-price-graph
+69
+
+SAND logo
+The Sandbox
+
+SAND
+
+$0.4925
+0.16%	3.34%	9.95%	
+$1,101,705,657
+
+$126,008,309
+
+255,909,798 SAND
+
+2,237,731,926 SAND
+
+the-sandbox-7d-price-graph
+70
+
+XTZ logo
+Tezos
+
+XTZ
+
+$1.08
+0.01%	2.21%	7.36%	
+$1,049,414,958
+
+$34,391,068
+
+31,809,877 XTZ
+
+970,921,620 XTZ
+
+tezos-7d-price-graph
+71
+
+KCS logo
+KuCoin Token
+
+KCS
+
+$10.69
+0.37%	0.21%	8.00%	
+$1,031,553,542
+
+$1,848,091
+
+172,573 KCS
+
+96,496,827 KCS
+
+kucoin-token-7d-price-graph
+72
+
+BTT logo
+BitTorrent (New)
+
+BTT
+
+$0.000001066
+0.85%	7.88%	5.91%	
+$1,030,748,097
+
+$74,591,588
+
+70,325,269,984,404 BTT
+
+968,246,428,571,000 BTT
+
+bittorrent-new-7d-price-graph
+73
+
+1000SATS logo
+SATS
+
+1000SATS
+
+$0.000477
+0.79%	2.30%	5.09%	
+$1,004,068,126
+
+$60,687,853
+
+127,580,417,048 1000SATS
+
+2,100,000,000,000 1000SATS
+
+sats-7d-price-graph
+74
+
+ASTR logo
+Astar
+
+ASTR
+
+$0.1754
+0.60%	1.38%	1.99%	
+$975,823,994
+
+$54,340,851
+
+310,420,458 ASTR
+
+5,564,604,337 ASTR
+
+astar-7d-price-graph
+75
+
+CHZ logo
+Chiliz
+
+CHZ
+
+$0.1075
+0.00%	4.35%	6.14%	
+$955,297,119
+
+$90,266,257
+
+837,721,591 CHZ
+
+8,888,290,622 CHZ
+
+chiliz-7d-price-graph
+76
+
+MANA logo
+Decentraland
+
+MANA
+
+$0.4988
+0.47%	3.09%	11.02%	
+$942,844,406
+
+$97,293,468
+
+195,512,511 MANA
+
+1,893,095,371 MANA
+
+decentraland-7d-price-graph
+77
+
+PYTH logo
+Pyth Network
+
+PYTH
+
+$0.6255
+0.18%	4.82%	31.32%	
+$939,498,812
+
+$118,661,803
+
+189,683,084 PYTH
+
+1,501,474,219 PYTH
+
+pyth-network-7d-price-graph
+78
+
+ETHDYDX logo
+dYdX (ethDYDX)
+
+ETHDYDX
+
+$3.13
+0.84%	1.10%	9.31%	
+$924,800,684
+
+$75,242,641
+
+24,064,302 ETHDYDX
+
+295,616,430 ETHDYDX
+
+dydx-ethdydx-7d-price-graph
+79
+
+NEO logo
+Neo
+
+NEO
+
+$12.93
+0.51%	6.57%	11.92%	
+$911,560,763
+
+$129,941,379
+
+10,032,242 NEO
+
+70,538,831 NEO
+
+neo-7d-price-graph
+80
+
+BONK logo
+Bonk
+
+BONK
+
+$0.00001387
+0.74%	3.03%	32.11%	
+$878,018,965
+
+$179,400,676
+
+12,932,496,130,950 BONK
+
+63,333,513,043,628 BONK
+
+bonk1-7d-price-graph
+81
+
+CFX logo
+Conflux
+
+CFX
+
+$0.2334
+0.64%	2.26%	3.87%	
+$874,551,397
+
+$51,787,018
+
+221,836,198 CFX
+
+3,745,812,584 CFX
+
+conflux-network-7d-price-graph
+82
+
+EOS logo
+EOS
+
+EOS
+
+$0.7758
+0.37%	3.52%	7.74%	
+$866,933,133
+
+$136,928,222
+
+176,321,173 EOS
+
+1,117,313,731 EOS
+
+eos-7d-price-graph
+83
+
+IOTA logo
+IOTA
+
+IOTA
+
+$0.2734
+0.47%	0.88%	9.93%	
+$856,965,841
+
+$26,667,176
+
+97,732,644 IOTA
+
+3,133,816,726 IOTA
+
+iota-7d-price-graph
+84
+
+ROSE logo
+Oasis Network
+
+ROSE
+
+$0.1268
+0.44%	1.04%	7.94%	
+$850,516,861
+
+$75,431,731
+
+596,276,893 ROSE
+
+6,713,599,876 ROSE
+
+oasis-network-7d-price-graph
+85
+
+RON logo
+Ronin
+
+RON
+
+$2.85
+0.06%	4.52%	10.16%	
+$847,979,319
+
+$64,972,391
+
+ron 22,770,518
+
+296,969,808 RON
+
+ronin-7d-price-graph
+86
+
+WEMIX logo
+WEMIX
+
+WEMIX
+
+$2.30
+1.01%	2.11%	4.47%	
+$830,627,132
+
+$3,117,663
+
+1,357,625 WEMIX
+
+361,635,753 WEMIX
+
+wemix-7d-price-graph
+87
+
+KAVA logo
+Kava
+
+KAVA
+
+$0.755
+0.29%	3.04%	5.48%	
+$818,181,013
+
+$29,573,709
+
+39,245,732 KAVA
+
+1,082,861,700 KAVA
+
+kava-7d-price-graph
+88
+
+AKT logo
+Akash Network
+
+AKT
+
+$3.57
+1.26%	2.01%	23.17%	
+$816,809,119
+
+$4,880,614
+
+1,367,879 AKT
+
+227,909,831 AKT
+
+akash-network-7d-price-graph
+89
+
+OSMO logo
+Osmosis
+
+OSMO
+
+$1.62
+0.02%	2.34%	2.59%	
+$796,952,594
+
+$55,141,805
+
+34,123,689 OSMO
+
+492,590,761 OSMO
+
+osmosis-7d-price-graph
+90
+
+KLAY logo
+Klaytn
+
+KLAY
+
+$0.2279
+0.13%	3.79%	11.33%	
+$794,682,535
+
+$38,581,516
+
+169,382,355 KLAY
+
+3,490,683,827 KLAY
+
+klaytn-7d-price-graph
+91
+
+LUNC logo
+Terra Classic
+
+LUNC
+
+$0.0001364
+0.54%	17.11%	25.39%	
+$788,722,701
+
+$178,150,747
+
+1,315,253,647,710 LUNC
+
+5,780,333,087,195 LUNC
+
+terra-luna-7d-price-graph
+92
+
+GALA logo
+Gala
+
+GALA
+
+$0.02736
+0.16%	6.42%	20.34%	
+$760,595,497
+
+$74,369,085
+
+2,708,232,202 GALA
+
+27,799,861,148 GALA
+
+gala-7d-price-graph
+93
+
+MANTA logo
+Manta Network
+
+MANTA
+
+$3.04
+0.17%	3.74%	10.65%	
+$762,768,486
+
+$297,183,201
+
+98,179,347 MANTA
+
+251,000,000 MANTA
+
+manta-network-7d-price-graph
+94
+
+WOO logo
+WOO
+
+WOO
+
+$0.4073
+0.24%	1.24%	11.67%	
+$743,954,104
+
+$16,793,525
+
+41,098,439 WOO
+
+1,826,449,568 WOO
+
+wootrade-7d-price-graph
+95
+
+USDD logo
+USDD
+
+USDD
+
+$0.9995
+0.02%	0.07%	0.42%	
+$738,786,651
+
+$14,011,930
+
+14,005,183 USDD
+
+739,158,536 USDD
+
+usdd-7d-price-graph
+96
+
+PENDLE logo
+Pendle
+
+PENDLE
+
+$3.09
+1.81%	6.85%	3.27%	
+$736,210,831
+
+$44,985,701
+
+14,506,941 PENDLE
+
+238,185,588 PENDLE
+
+pendle-7d-price-graph
+97
+
+GNO logo
+Gnosis
+
+GNO
+
+$285.93
+0.55%	0.52%	15.59%	
+$740,437,091
+
+$12,178,233
+
+42,869 GNO
+
+2,589,588 GNO
+
+gnosis-gno-7d-price-graph
+98
+
+ENS logo
+Ethereum Name Service
+
+ENS
+
+$23.46
+0.28%	1.73%	10.76%	
+$722,481,584
+
+$84,991,886
+
+3,630,619 ENS
+
+30,794,761 ENS
+
+ethereum-name-service-7d-price-graph
+99
+
+AXL logo
+Axelar
+
+AXL
+
+$1.26
+0.06%	5.08%	21.68%	
+$714,955,836
+
+$11,976,116
+
+9,441,086 AXL
+
+567,656,591 AXL
+
+axelar-7d-price-graph
+100
+
+JUP logo
+Jupiter
+
+JUP
+
+$0.5208
+0.62%	2.55%	1.96%	
+$703,062,534
+
+$355,531,876
+
+683,854,614 JUP
+
+1,350,000,000 JUP
+
+jupiter-ag-7d-price-graph
