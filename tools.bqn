@@ -21,7 +21,7 @@ Bqt2f ⟨"ALGO","USDT","1d"⟩
 # Get assets with "1d"s only
 cl_1d←⊑¨ (( "1d"⊸≡ ¯1⊸⊑)¨⊸/⊢)  kls
 cl_1d ((<⊣)∾⊢)¨ (<"USDT"‿"1d")
-
+≠cl_1d
 # Check timestamps are ok for all assets
 TS_ok←{
 	kls←JParse •FChars 𝕩 
