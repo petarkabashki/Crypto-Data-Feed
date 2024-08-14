@@ -1,2 +1,6 @@
 data-csv/
 freq-user-data/
+data-parquet/
+sp500_data/
+indexes-data/
+russell_2000_data/
